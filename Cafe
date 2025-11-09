@@ -1,0 +1,154 @@
+<!-- menu.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>メニュー</title>
+</head>
+<body>
+  <h1>メニューページ</h1>
+  <p>ここにメニューの詳細を表示します。</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
+  <link href="./style.css/main.css" rel="stylesheet" />
+  <title>Cafe and Three</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+  <header class="nav-bar">
+  <nav>
+    <a href="index.html">ホーム</a>
+    <a href="menu.html">メニュー</a>
+    <a href="info.html">店舗情報</a>
+    <a href="contact.html">お問い合わせ</a>
+  </nav>
+</header>
+
+  <section class="hero">
+  <h1>ＣａｆｅＢｉｇＴｈｒｅｅ</h1>
+  <p>あなたのエネルギーを最大限に引き出す</p>
+  <div class="hero-buttons">
+  <a href="menu.html"><button>メニュー</button></a>
+  <a href="info.html"><button>店舗情報</button></a>
+  <a href="contact.html"><button>お問い合わせ</button></a>
+</div>
+</section>
+
+ <section class="menu-cards">
+  <div class="card">
+    <img src="./images/protein.png" alt="ランチ" />
+    <h3>完璧なPFCバランス</h3>
+    <p>減量も増量も全力サポート</p>
+  </div>
+  <div class="card">
+    <img src="./images/shake.png" alt="ドリンク" />
+    <h3>オリジナルプロテインドリンク</h3>
+    <p>女子にも人気のマチョ可愛いドリンク</p>
+  </div>
+  <div class="card">
+    <img src="./images/salad.png" alt="サラダ" />
+    <h3>ビタミンサラダ</h3>
+    <p>疲労回復、肌管理もばっちり</p>
+  </div>
+</section>
+
+  <section class="features">
+  <div class="feature">
+    <img src="./images/内装.png" alt="居心地の良い空間" />
+    <h3>居心地の良い空間</h3>
+    <p>落ち着いたインテリアと静かな雰囲気で、心も体もリラックス。</p>
+  </div>
+  <div class="feature">
+    <img src="./images/パーソナル.png" alt="プロのサポート" />
+    <h3>プロのサポート</h3>
+    <p>経験豊富なスタッフがあなたの健康と学びを全力でサポート。</p>
+  </div>
+  <div class="feature">
+    <img src="./images/仲間.png" alt="教育のある場所" />
+    <h3>トレーニーの隠れ家</h3>
+    <p>仲間同士で意識を高めあえる場所。</p>
+  </div>
+</section>
+
+<section class="payment-methods">
+  <h2>お支払い方法</h2>
+  <ul>
+    <li>現金</li>
+    <li>クレジットカード（VISA / MasterCard / JCB）</li>
+    <li>電子マネー（PayPay / LINE Pay / 楽天ペイ）</li>
+  </ul>
+</section>
+
+<section class="parking-info">
+  <h2>🅿️ 駐車場のご案内</h2>
+  <p>
+    当店には専用駐車場が2台分ございます（店舗裏手）。<br />
+    満車の場合は、近隣のコインパーキング（徒歩1〜3分）をご利用ください。<br />
+    駐輪スペースもございますので、自転車でも安心してお越しください。
+  </p>
+</section>
+
+ <footer class="footer">
+  <div class="footer-content">
+    <h2>Cafe and Three</h2>
+    <p>大阪市中央区筋肉通り3-2-1</p>
+    <p>営業時間：8:00〜18:00（年中無休）</p>
+    <div class="social-links">
+      <a href="#">Instagram</a>
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+    </div>
+    <div class="footer-nav">
+      <a href="#">メニュー</a>
+      <a href="#">店舗情報</a>
+      <a href="#">お問い合わせ</a>
+    </div>
+  </div>
+</footer>
+
+<section class="map-section">
+  <h2>店舗所在地</h2>
+  <div class="map-container">
+    <iframe
+      src="https://www.bing.com/maps/search?FORM=HDRSC6&q=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA&cp=34.678873%7E135.516235&lvl=14.5&style=r" 
+      width="100%" 
+      height="400" 
+      style="border:0;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</section>
+</body>
+</html>
+<!-- menu.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>メニュー</title>
+</head>
+<body>
+  <h1>メニューページ</h1>
+  <p>ここにメニューの詳細を表示します。</p>
+</body>
+</html>
+<!-- menu.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>メニュー</title>
+</head>
+<body>
+  <h1>メニューページ</h1>
+  <p>ここにメニューの詳細を表示します。</p>
+</body>
+</html>
